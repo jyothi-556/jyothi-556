@@ -1,7 +1,7 @@
 <!-- ========================= HEADER SECTION ========================= -->
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=lakkireddy20%jyothi"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=lakkireddyjyothi"/>
 </p>
 
 <p align="center">
