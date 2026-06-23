@@ -107,12 +107,12 @@
 <h2 align="center">GITHUB METRICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyothilakkireddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothilakkireddy&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyothi-556&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothi-556&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothilakkireddy&bg_color=1a1b27&hide_border=true&line=00F79F&point=00F79F&area=true&area_color=003322&title_color=ffffff&color=aaaaaa" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothi-556&bg_color=1a1b27&hide_border=true&line=00F79F&point=00F79F&area=true&area_color=003322&title_color=ffffff&color=aaaaaa" width="98%"/>
 </p>
 
 ---
