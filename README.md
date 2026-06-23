@@ -92,7 +92,7 @@
   <tr>
     <td align="center" width="50%">
       <b>LeetCode</b><br/><br/>
-      <img src="https://leetcard.jacoblin.cool/jyothilakkireddy?theme=dark&font=Baloo&ext=heatmap"/>
+      <img src="https://leetcard.jacoblin.cool/Jyothi_56?theme=dark&font=Baloo&ext=heatmap"/>
     </td>
     <td align="center" width="50%">
       <b>TryHackMe</b><br/><br/>
